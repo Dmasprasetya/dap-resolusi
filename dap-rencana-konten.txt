@@ -1,0 +1,7 @@
+rencana kedepan
+
+interview
+nodejs
+-es6
+-framework
+golang
